@@ -11,5 +11,5 @@ requesocks==0.10.8
 requests==2.6.0
 scapy==2.3.1
 six==1.9.0
-SQLAlchemy==0.9.8
+SQLAlchemy==1.2.18
 SQLAlchemy-Utils==0.29.8
